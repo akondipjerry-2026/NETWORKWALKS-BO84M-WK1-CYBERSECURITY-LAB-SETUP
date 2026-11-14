@@ -1,0 +1,19 @@
+Challenges Faced
+
+During the Kali Linux setup, I had difficulty locating the network settings on the running system.
+
+I had to research how to access the network configuration window and found the "nm-connection-editor" command.
+
+I opened the terminal and ran:
+
+nm-connection-editor
+
+This opened the Network Connections window, which allowed me to access the network settings and continue with the configuration.
+
+Lessons Learned
+
+- How to open network settings using the terminal.
+- How to use the "nm-connection-editor" command.
+- The importance of researching and troubleshooting when facing technical difficulties.
+
+This experience helped me understand that sometimes using terminal commands can make it easier to access system settings in Linux.
